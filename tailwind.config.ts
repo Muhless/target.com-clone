@@ -15,10 +15,18 @@ const config: Config = {
       },
       colors: {
         'target-com': '#CC0000',
+        'categories': '#C2DAAE',
       },
       height: {
-        'logo': '5.1rem'
+        'logo': '5.1rem',
+        'content': '447px'
       },
+      width: {
+        'search': '492px',
+      },
+      padding: {
+        "content": '159px',
+      }
     },
   },
   plugins: [],

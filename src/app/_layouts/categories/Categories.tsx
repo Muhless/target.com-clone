@@ -1,9 +1,9 @@
 
 const Categories = () => {
     return (
-        <div>
-            <div className="h-6 bg-pink-600">
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, laudantium?</p>
+        <div className="bg-white h-screen">
+            <div className="h-content bg-categories text-black">
+                <p>Save big on home</p>
             </div>
         </div>
     )
